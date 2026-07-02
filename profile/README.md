@@ -6,6 +6,8 @@ Swift implementations of IETF (Internet Engineering Task Force) specifications �
 
 One package per specification, named `swift-rfc-<number>`. Each package implements its source document as literally as possible — parsing, validation, and formatting enforced by Swift's type system — and defines its own namespace (`RFC_3986`). Where several specifications govern one subject, the unifying `swift-*-standard` package lives in [swift-standards](https://github.com/swift-standards).
 
+> Swift IETF is an independent open-source project. It is not affiliated with, endorsed by, or sponsored by the Internet Engineering Task Force.
+
 ## Start here
 
 | Package | Specification |
