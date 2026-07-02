@@ -6,7 +6,7 @@
 #
 # Schema mirrors per-repo .github/metadata.yaml. Read by social-preview.sh.
 
-description: "Swift implementations of ietf specifications."
+description: "Swift implementations of IETF specifications."
 homepage: "https://swift-institute.org"
 
 socialPreview:
