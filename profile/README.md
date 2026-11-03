@@ -1,6 +1,6 @@
 # Swift IETF
 
-Swift implementations of IETF (Internet Engineering Task Force) specifications — a per-authority organization of [swift-standards](https://github.com/swift-standards), Layer 2 of the [Swift Institute](https://github.com/swift-institute) ecosystem.
+Swift implementations of IETF (Internet Engineering Task Force) specifications — a per-authority organization of [swift-standards](https://github.com/swift-standards), Layer 3 of the [Swift Institute](https://github.com/swift-institute) ecosystem.
 
 ## What this is
 
